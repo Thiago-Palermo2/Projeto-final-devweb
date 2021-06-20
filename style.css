@@ -1,0 +1,29 @@
+.avatar {
+  vertical-align:center;
+  width: 35px;
+  height: 35px;
+  border-radius: 52%;
+  float: left;
+  padding: 2px;
+}
+
+ h1 {
+color: #4A4E69;
+font-family: arial, sans-serif;
+font-size: 50px;
+font-weight: bold;
+text-align: center;
+padding:20px;
+margin-top: 20px;
+}
+p.round2 {
+  border: 2px solid red;
+  border-radius: 8px;
+}
+
+body {
+    background-color:#C9ADA7;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
